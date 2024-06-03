@@ -3,7 +3,7 @@
 
 Hello, I like to write useless programs using code that is perfectly <s>clean</s> understandable to me.
 
-In all seriousness, I write code in Java, Python, HTML/CSS/JS, Markdown, SwiftUI and C#. I can communicate in English and French.
+I write code in Java, Python, HTML/CSS/JS, Markdown, SwiftUI and C#. I can communicate in English and French.
 </details>
 
 <details>
@@ -11,5 +11,5 @@ In all seriousness, I write code in Java, Python, HTML/CSS/JS, Markdown, SwiftUI
 
 Bonjour, j'aime écrire des programmes absolument inutiles comprenant du code parfaitement <s>lisible</s> confus.
 
-Sans blagues, j'aime écrire du code en Java, Python, HTML/CSS/JS, Markdown, SwiftUI et C#. Je peux communiquer en français et en anglais.
+J'aime écrire du code en Java, Python, HTML/CSS/JS, Markdown, SwiftUI et C#. Je peux communiquer en français et en anglais.
 </details>
