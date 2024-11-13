@@ -79,7 +79,7 @@ Hello, I'm a Canadian student who tends to write programs that are useful in sma
 <table>
     <tr>
         <td valign="center">
-            <img src="https://raw.githubusercontent.com/DarkMattrMaestro/half-bold-reader/refs/heads/main/icons/half-bold-reader1024x1024.png" alt="Half-Bold Reader logo" width="50px"/>
+            <img src="https://raw.githubusercontent.com/DarkMattrMaestro/half-bold-reader/refs/heads/main/icons/half-bold-reader1024x1024.png" alt="Half-Bold Reader logo" width="80"/>
         </td>
         <td>
             <a href="https://github.com/DarkMattrMaestro/half-bold-reader">
@@ -88,6 +88,19 @@ Hello, I'm a Canadian student who tends to write programs that are useful in sma
         </td>
         <td>
             One of my friends asked me to write an extension that increases the readability of web pages by making the first half of every word bold. This project is the result.
+        </td>
+    </tr>
+    <tr>
+        <td valign="center">
+            <img src="https://github.com/user-attachments/assets/5e7a2c21-a986-4f4f-a22b-8ecc47eee590" alt="GBXPos logo" width="80"/>
+        </td>
+        <td>
+            <a href="https://github.com/DarkMattrMaestro/GBXPosBlenderAddon">
+                GBXPos & GBXPosBlenderAddon
+            </a>
+        </td>
+        <td>
+            A discontinued, incomplete tool to import Trackmania Nations Forever replays to Blender. I discontinued this project when I learned that the creator of the GBX.NET package started writing their own tool that would render GBXPos obsolete.
         </td>
     </tr>
 </table>
@@ -186,7 +199,20 @@ Bonjour, je suis un étudiant canadien qui aime écrire des programmes qui sont 
             </a>
         </td>
         <td>
-            Un de mes amis m'a demandé d'écrire une extension qui augmente la lisibilité de pages Web en mettant en gras la première demie de chaque mot. Ce projet en est le résultat.
+            Un de mes amis m'a demandé d'écrire une extension à but d'augmenter la lisibilité de pages Web en mettant en gras la première demie de chaque mot. Ce projet en est le résultat.
+        </td>
+    </tr>
+    <tr>
+        <td valign="center">
+            <img src="https://github.com/user-attachments/assets/5e7a2c21-a986-4f4f-a22b-8ecc47eee590" alt="GBXPos logo" width="80"/>
+        </td>
+        <td>
+            <a href="https://github.com/DarkMattrMaestro/GBXPosBlenderAddon">
+                GBXPos & GBXPosBlenderAddon
+            </a>
+        </td>
+        <td>
+            Un outil abandonné et incomplet à but d'importer des rediffusions de Trackmania Nations Forever dans Blender. Le projet a été abandonné quand il est venu à mon attention que le créateur du package GBX.NET débutait l'écriture d'un outil qui renderait GBXPos obsolète.
         </td>
     </tr>
 </table>
