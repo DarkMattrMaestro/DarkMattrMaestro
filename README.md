@@ -18,7 +18,7 @@ Hello, I'm a Canadian student who tends to write programs that are useful in sma
     </tr>
     <tr>
         <td valign="center">
-            <img src="" alt="Java logo" width="30"/>
+            <img src="https://github.com/user-attachments/assets/5fc46e70-5de2-4d3a-b871-ad606baad551" alt="Java logo" width="30"/>
         </td>
         <td>
             <p>Java</p>
@@ -26,7 +26,7 @@ Hello, I'm a Canadian student who tends to write programs that are useful in sma
     </tr>
     <tr>
         <td valign="center">
-            <img src="" alt="Javascript logo" width="30"/>
+            <img src="https://github.com/user-attachments/assets/b2de5beb-a5eb-4ac5-9e9d-1e65d2cf4a1a" alt="Javascript logo" width="30"/>
         </td>
         <td>
             <p>Javascript</p>
@@ -34,7 +34,7 @@ Hello, I'm a Canadian student who tends to write programs that are useful in sma
     </tr>
     <tr>
         <td valign="center">
-            <img src="" alt="R logo" width="30"/>
+            <img src="https://github.com/user-attachments/assets/1a594c53-eb83-4600-906e-225094b36743" alt="R logo" width="30"/>
         </td>
         <td>
             <p>R</p>
@@ -58,7 +58,7 @@ Hello, I'm a Canadian student who tends to write programs that are useful in sma
     </tr>
     <tr>
         <td valign="center">
-            <img src="" alt="CSS logo" width="30"/>
+            <img src="https://github.com/user-attachments/assets/c79b9185-9d63-4022-a2a6-275fe060b27f" alt="CSS logo" width="30"/>
         </td>
         <td>
             <p>CSS</p>
@@ -66,7 +66,7 @@ Hello, I'm a Canadian student who tends to write programs that are useful in sma
     </tr>
     <tr>
         <td valign="center">
-            <img src="" alt="SwiftUI logo" width="30"/>
+            <img src="https://github.com/user-attachments/assets/e9b82857-6a67-400c-9755-16ff7b893e5c" alt="SwiftUI logo" width="30"/>
         </td>
         <td>
             <p>SwiftUI</p>
@@ -117,7 +117,7 @@ Bonjour, je suis un étudiant canadien qui aime écrire des programmes qui sont 
     </tr>
     <tr>
         <td valign="center">
-            <img src="" alt="Logo Java" width="30"/>
+            <img src="https://github.com/user-attachments/assets/5fc46e70-5de2-4d3a-b871-ad606baad551" alt="Logo Java" width="30"/>
         </td>
         <td>
             <p>Java</p>
@@ -125,7 +125,7 @@ Bonjour, je suis un étudiant canadien qui aime écrire des programmes qui sont 
     </tr>
     <tr>
         <td valign="center">
-            <img src="" alt="Logo Javascript" width="30"/>
+            <img src="https://github.com/user-attachments/assets/b2de5beb-a5eb-4ac5-9e9d-1e65d2cf4a1a" alt="Logo Javascript" width="30"/>
         </td>
         <td>
             <p>Javascript</p>
@@ -133,7 +133,7 @@ Bonjour, je suis un étudiant canadien qui aime écrire des programmes qui sont 
     </tr>
     <tr>
         <td valign="center">
-            <img src="" alt="Logo R" width="30"/>
+            <img src="https://github.com/user-attachments/assets/1a594c53-eb83-4600-906e-225094b36743" alt="Logo R" width="30"/>
         </td>
         <td>
             <p>R</p>
@@ -157,7 +157,7 @@ Bonjour, je suis un étudiant canadien qui aime écrire des programmes qui sont 
     </tr>
     <tr>
         <td valign="center">
-            <img src="" alt="Logo CSS" width="30"/>
+            <img src="https://github.com/user-attachments/assets/c79b9185-9d63-4022-a2a6-275fe060b27f" alt="Logo CSS" width="30"/>
         </td>
         <td>
             <p>CSS</p>
@@ -165,7 +165,7 @@ Bonjour, je suis un étudiant canadien qui aime écrire des programmes qui sont 
     </tr>
     <tr>
         <td valign="center">
-            <img src="" alt="Logo SwiftUI" width="30"/>
+            <img src="https://github.com/user-attachments/assets/e9b82857-6a67-400c-9755-16ff7b893e5c" alt="Logo SwiftUI" width="30"/>
         </td>
         <td>
             <p>SwiftUI</p>
