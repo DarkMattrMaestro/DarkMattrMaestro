@@ -1,5 +1,5 @@
 ## Overview
-Hello, I'm a canadian student who tends to write programs that are useful in small ways. I also generally like math problems that have interesting answers.
+Hello, I'm a Canadian student who tends to write programs that are useful in small ways. I also generally like math problems that have interesting answers.
 
 ### Communication Languagues:
 + English
