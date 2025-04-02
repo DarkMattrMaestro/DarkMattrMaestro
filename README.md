@@ -125,8 +125,8 @@ Hello, I'm a Canadian student who tends to write programs that are useful in sma
 Bonjour, je suis un étudiant canadien qui aime écrire des programmes qui sont utiles de manière subtile. Souvent, je me trouve également intrigué par des problèmes mathématiques ayant des solutions bien pensées.
 
 ### Languagues de communication :
-+ English
-+ French
++ Anglais
++ Français
 
 ### Languages de programmation avec lesquelles j'ai précédemment travaillé (en ordre du plus au moins comfortable) :
 
