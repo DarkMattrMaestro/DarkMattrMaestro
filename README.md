@@ -74,7 +74,7 @@ Hello, I'm a Canadian student who tends to write programs that are useful in sma
     </tr>
 </table>
 
-### Previous Developpement Projects:
+### Previous Major Projects:
 
 <table>
     <tr>
@@ -88,6 +88,17 @@ Hello, I'm a Canadian student who tends to write programs that are useful in sma
         </td>
         <td>
             One of my friends asked me to write an extension that increases the readability of web pages by making the first half of every word bold. This project is the result.
+        </td>
+    </tr>
+    <tr>
+        <td valign="center">
+            <img src="https://github.com/user-attachments/assets/5e7a2c21-a986-4f4f-a22b-8ecc47eee590" alt="GBXPos logo" width="80"/>
+        </td>
+        <td>
+            <a href="https://github.com/DarkMattrMaestro/stats-tmnf-quarto#readme">"Classification de toute allure!"</a>
+        </td>
+        <td>
+            For my grade 12 statistics culminating projects, I delved into the correlations between maps' racing lines and their user-selected Tags in Trackmania Nations Forever by means of predictive models. The primary model ended up having an accuracy of 84.71%, which is quite good considering that no track information was provided. See <a href="https://github.com/DarkMattrMaestro/StatsProjectTMNF">StatsProjectTMNF</a> for the data-collection program.
         </td>
     </tr>
     <tr>
