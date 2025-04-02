@@ -95,10 +95,10 @@ Hello, I'm a Canadian student who tends to write programs that are useful in sma
             <img src="https://github.com/user-attachments/assets/5e7a2c21-a986-4f4f-a22b-8ecc47eee590" alt="GBXPos logo" width="80"/>
         </td>
         <td>
-            <a href="https://github.com/DarkMattrMaestro/stats-tmnf-quarto#readme">"Classification de toute allure!"</a>
+            <a href="https://github.com/DarkMattrMaestro/stats-tmnf-quarto#readme">Classification de toute allure!</a>
         </td>
         <td>
-            For my grade 12 statistics culminating projects, I delved into the correlations between maps' racing lines and their user-selected Tags in Trackmania Nations Forever by means of predictive models. The primary model ended up having an accuracy of 84.71%, which is quite good considering that no track information was provided. See <a href="https://github.com/DarkMattrMaestro/StatsProjectTMNF">StatsProjectTMNF</a> for the data-collection program.
+            For my grade 12 statistics culminating projects, I delved into the correlations between maps' racing lines and their user-selected Tags in Trackmania Nations Forever by means of predictive models. The primary model ended up having an accuracy of 84.71%, which is quite good considering that no track information was provided. See <a href="https://github.com/DarkMattrMaestro/StatsProjectTMNF/blob/main/MainCodebase.ipynb">StatsProjectTMNF</a> for the data-collection program.
         </td>
     </tr>
     <tr>
@@ -211,6 +211,17 @@ Bonjour, je suis un étudiant canadien qui aime écrire des programmes qui sont 
         </td>
         <td>
             Un de mes amis m'a demandé d'écrire une extension à but d'augmenter la lisibilité de pages Web en mettant en gras la première demie de chaque mot. Ce projet en est le résultat.
+        </td>
+    </tr>
+    <tr>
+        <td valign="center">
+            <img src="https://github.com/user-attachments/assets/5e7a2c21-a986-4f4f-a22b-8ecc47eee590" alt="GBXPos logo" width="80"/>
+        </td>
+        <td>
+            <a href="https://github.com/DarkMattrMaestro/stats-tmnf-quarto#readme">Classification de toute allure!</a>
+        </td>
+        <td>
+            Pour mon projet d'envergure dans mon cours de statistiques de 12ème année, j'ai exploré les corrélations entre le cheminement de voitures dans des circuits et leur Étiquette assigné, dans Trackmania Nations Forever, par moyen de modèles prédictifs. Le modèle principal a une exactitude de 84,71%, ce qui est plutôt bon considérant qu'aucun renseignement du circuit n'est fourni. Voyez <a href="https://github.com/DarkMattrMaestro/StatsProjectTMNF/blob/main/MainCodebase.ipynb">StatsProjectTMNF</a> pour le programme de collection de données.
         </td>
     </tr>
     <tr>
