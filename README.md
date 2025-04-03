@@ -74,7 +74,7 @@ Hello, I'm a Canadian student who tends to write programs that are useful in sma
     </tr>
 </table>
 
-### Previous Major Projects:
+### Previous Development Projects:
 
 <table>
     <tr>
