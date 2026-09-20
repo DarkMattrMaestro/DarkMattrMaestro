@@ -1,4 +1,4 @@
-## Overview
+## Nicolas K.
 Hello, I am a Canadian programming enthusiast studying Software Engineering at Carleton University. I enjoy programming tools, utilities and applications that enhance others’ use of software and that fulfill tasks that aren’t covered by existing solutions. I'm intrigued by statistics as well as mathematical problems that have imaginative solutions, and I am currently learning about RISC-V.
 
 ### Communication Languagues:
@@ -26,7 +26,7 @@ I have experience with Java and Java bytecode, Python, C, Typescript, Bash, C# (
 <details>
     <summary>Français</summary>
 
-## Survol
+## Nicolas K.
 Bonjour, je suis un enthousiaste de programmation canadien étudiant l'ingénieurie logiciel à l'Université Carleton. J'aime programmer des outils, des utilités et des applications qui améliorent l'utilisation de logiciels autruis et qui comblent aux besoins non résolus par des solutions existantes. Je suis intrigué des statistiques et des problèmes mathématiques ayant des solutions bien pensées, puis j'apprend actuellement comment fonctionne RISC-V.
 
 ### Languagues de communication :
