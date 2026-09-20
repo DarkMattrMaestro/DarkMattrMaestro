@@ -18,7 +18,7 @@ I am fluent in both English and French. I know very minimal Spanish.
     <img src="https://github.com/user-attachments/assets/b2de5beb-a5eb-4ac5-9e9d-1e65d2cf4a1a" alt="Javascript logo" height="32"/>
     <img src="https://github.com/user-attachments/assets/e9b82857-6a67-400c-9755-16ff7b893e5c" alt="Swift logo" height="32"/>
 </div>
-I have experience with Java and Java bytecode, Python, C, Typescript, Bash, C# (<a href="https://github.com/dotnet/interactive/issues/4163">rip Polyglot Notebooks</a>), HTML/CSS, R/Quarto, LaTeX (typesetting ≅ programming)
+I have experience with Java and Java bytecode, Python, C, Typescript, Bash, C# (<a href="https://github.com/dotnet/interactive/issues/4163">rip Polyglot Notebooks</a>), HTML/CSS, R/Quarto, LaTeX
 , Javascript, Swift and a few other languages I've used occasionally.
 
 ----------------------------------------------------------------------------------------------
